@@ -1,0 +1,72 @@
+.lfr-actions.lfr-extended, .lfr-actions.lfr-extended ul {
+background: #d4d4d4 url(../images/portlet/header_bg.png) repeat-x 0 0;
+border: 1px solid;
+border-color: #c8c9ca #9e9e9e #9e9e9e #c8c9ca;
+color: #34404f;
+cursor: pointer;
+font-weight: bold;
+overflow: visible;
+padding: 5px;
+text-shadow: 1px 1px #FFF;
+width: auto;
+padding: 0;
+}
+
+.lfr-actions .lfr-trigger {
+background-position: 100% -42px;
+cursor: pointer;
+padding-right: 3px;
+}
+
+.lfr-actions {
+float: right;
+text-align: left;
+}
+
+.lfr-component, .lfr-component ul, .lfr-component li, .lfr-component dl, .lfr-component dt, .lfr-component dd {
+margin: 0;
+padding: 0;
+list-style: none;
+}
+
+.taglib-search-iterator {
+border-collapse: collapse;
+}
+
+table {
+border-collapse: collapse;
+border-spacing: 0;
+}
+
+.lfr-actions .lfr-trigger, .lfr-actions .lfr-trigger strong {
+background: 0;
+}
+
+.lfr-trigger, .lfr-actions .lfr-trigger strong {
+font-weight: bold;
+text-shadow: 1px 1px 0 0 #FFF;
+}
+
+.lfr-actions .lfr-trigger, .lfr-actions .lfr-trigger strong {
+background-image: url(/html/themes/control_panel/images/common/button_bg.png);
+background-repeat: no-repeat;
+font-weight: normal;
+}
+
+.lfr-component, .lfr-component ul, .lfr-component li, .lfr-component dl, .lfr-component dt, .lfr-component dd {
+margin: 0;
+padding: 0;
+list-style: none;
+}
+
+.lfr-actions.lfr-extended, .lfr-actions.lfr-extended ul {
+color: #34404f;
+cursor: pointer;
+font-weight: bold;
+text-shadow: 1px 1px #FFF;
+}
+
+.lfr-actions li .taglib-text {
+color: #34404f;
+display: inline-block;
+}
